@@ -1,5 +1,9 @@
 [
   {
+    "package": "APfun",
+    "oncran": true
+  },
+  {
     "package": "ForestTools",
     "oncran": true
   }
