@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "APfun"]
 	path = APfun
-	url = https://github.com/andrew-plowright/apfun
+	url = https://github.com/cran/APfun
 	shallow = true
 	registered = true
 [submodule "ForestTools"]
